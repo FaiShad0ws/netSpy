@@ -3,18 +3,14 @@
 
 <br>
 
-## Requirement 
+## Instructions
+
+1. install requirements
 ```
 pip install scapy
 pip install pandas
 ```
-<br>
-
-## Instructions
-
-
-1. install requirements
-2. Enable monitor mode in your network interface
+3. Enable monitor mode in your network interface
 
 ```
 $ airmon-ng start [interface name]
@@ -26,19 +22,22 @@ $ airmon-ng start [interface name]
 $ iwconfig
 ```
 
-4. run ./netSpy.py -h 
-
+4. run the code
+```
+$./netSpy.py -h 
+```
 
 <br>
 
 ## Usage
 
 ```
-$ ./netSpy.py -s 
+$ ./netSpy.py -s
+$ ./netSpy.py --scan
+
 ```
 
 **Example**
-```
 
-```
+
 <br>
