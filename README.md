@@ -40,6 +40,10 @@ $ ./netSpy.py --scan
 **Example**
 
 ```
+$ ./netSpy.py --scan
+
+#### DISPLAY NEARBY WIRELESS NETWORKS ####
+___________________________________________________________________________________________________________________________
                        [SSID]                    [Strength -dBm format]  [Channel]  [Crypto]              [Supported Rates]
              
 [BSSID]  
