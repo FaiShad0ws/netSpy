@@ -35,6 +35,5 @@ $./netSpy.py -h
 ```
 $ ./netSpy.py -s
 $ ./netSpy.py --scan
-
 ```
 
