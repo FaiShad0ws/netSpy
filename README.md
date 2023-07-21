@@ -37,7 +37,3 @@ $ ./netSpy.py --scan
 
 ```
 
-**Example**
-
-
-<br>
