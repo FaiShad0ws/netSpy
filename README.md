@@ -1,4 +1,5 @@
 # netSpy
+Scapy-based Wi-Fi scanner utility in Python that sniffs, captures, and decodes 802.11 frames to display nearby wireless networks and extra information. 
 
 
 <br>
