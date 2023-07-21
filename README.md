@@ -12,13 +12,22 @@ pip install pandas
 
 ## Instructions
 
-```
+
 1. install requirements
 2. Enable monitor mode in your network interface
-3. Verify your interface name
-4. run ./netSpy.py -h 
 
 ```
+$ airmon-ng start [interface name]
+```
+
+3. Verify your interface name
+
+```
+$ iwconfig
+```
+
+4. run ./netSpy.py -h 
+
 
 <br>
 
@@ -28,7 +37,7 @@ pip install pandas
 $ ./netSpy.py -s 
 ```
 
-**Example - Invisible**
+**Example**
 ```
 
 ```
