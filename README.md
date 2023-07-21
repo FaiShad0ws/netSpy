@@ -46,11 +46,11 @@ $ ./netSpy.py --scan
 ___________________________________________________________________________________________________________________________
                        [SSID]                    [Strength -dBm format]  [Channel]  [Crypto]              [Supported Rates]            
 [BSSID]  
-0  12:34:56:78:90:ab   MyNetwork                 -50                      1          WPA/PSK | WAP2/PSK    100  
-1  34:56:78:90:ab:cd   GuestNetwork123           -80                      6          WPA/PSK               100
-2  56:78:90:ab:cd:ef   CorporateWirelessNetwork  -65                      6          WPA/PSK               100
-3  78:90:ab:cd:ef:12   TestNetwork123            -75                      11         WPA/PSK | WAP2/PSK    100
-4  90:ab:cd:ef:12:34   BNHOME                    -70                      1          WAP2/PSK              100
+0  12:34:56:78:90:ab   MyNetwork                 -50                      1          WPA/PSK | WAP2/PSK    1  
+1  34:56:78:90:ab:cd   GuestNetwork123           -80                      6          WPA/PSK               5.5
+2  56:78:90:ab:cd:ef   CorporateWirelessNetwork  -65                      6          WPA/PSK               11
+3  78:90:ab:cd:ef:12   TestNetwork123            -75                      11         WPA/PSK | WAP2/PSK    2
+4  90:ab:cd:ef:12:34   BNHOME                    -70                      1          WAP2/PSK              2
 
 ```
 
