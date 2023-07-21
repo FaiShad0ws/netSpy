@@ -44,8 +44,7 @@ $ ./netSpy.py --scan
 
 #### DISPLAY NEARBY WIRELESS NETWORKS ####
 ___________________________________________________________________________________________________________________________
-                       [SSID]                    [Strength -dBm format]  [Channel]  [Crypto]              [Supported Rates]
-             
+                       [SSID]                    [Strength -dBm format]  [Channel]  [Crypto]              [Supported Rates]            
 [BSSID]  
 0  12:34:56:78:90:ab   MyNetwork                 -50                      1          WPA/PSK | WAP2/PSK    100  
 1  34:56:78:90:ab:cd   GuestNetwork123           -80                      6          WPA/PSK               100
